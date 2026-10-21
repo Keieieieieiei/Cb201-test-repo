@@ -1,3 +1,28 @@
+
 h1{
-    color:blue
+    color:goldenrod;
+    font-family: "Bonbon", cursive;
+    text-align:center;
+    text-transform:uppercase;
 }
+
+h2{
+    color:palevioletred;
+    font-family: "Bonbon", cursive;
+    text-align:center;
+}
+<br class="large-gap">
+p {
+    color:blue;
+    font-size: 18px;
+    line-height: 1.7;
+}
+a{
+    color:rosybrown;
+    text-decoration:none;
+}
+body{
+font-family: "Kablammo", system-ui;
+background-color:#313338;
+}
+
